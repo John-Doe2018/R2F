@@ -1,0 +1,40 @@
+<html>
+<head>
+<title>Finance Case Study 2017-18</title>
+</head>
+    <topicMetadata>
+        <shortdesc>Finance Case Study</shortdesc>
+        <author>J.K Mathur</author>
+        <publisher></publisher>
+        <!-- <copyright>
+            <copyryear year="2018"></copyryear>
+            <copyrholder>Public</copyrholder>
+        </copyright> -->
+        <keywords>Finance,Tcs,Infosys</keywords>
+    </topicMetadata>
+	<!-- <script type=""src="" language=""></script> -->
+    <body>
+        <topicref navtitle="Finance Case Study 2017-18" type="Binder" classification="Finance">
+            <topic class="" path="" name="" type="" version="" id="">
+                <File>
+                    <notesList></notesList>
+                </File>
+            </topic>
+            <topic class="" path="" name="" type="" version="" id="">
+                <File>
+                    <notesList></notesList>
+                </File>
+            </topic>
+            <topic class="" path="" name="" type="" version="" id="">
+                <File>
+                    <notesList></notesList>
+                </File>
+            </topic>
+            <topic class="" path="" name="" type="" version="" id="">
+                <File>
+                    <notesList></notesList>
+                </File>
+            </topic>
+        </topicref>
+    </body>
+</html>
